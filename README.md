@@ -22,7 +22,8 @@ Uses [Zero banking site](http://zero.webappsecurity.com/index.html) for scenario
 
 ### How to execute test
 
-1. Through IDE: right click on "Tests"
+1. Through IDE: right click on "TestsToExecute.java" and run "verifyLogin()"
+2. Through command prompt: mvn test
 
 ## About Page Object Model framework
 
