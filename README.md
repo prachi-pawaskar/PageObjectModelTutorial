@@ -10,7 +10,7 @@ These instructions will help you get started.
 
 1. Java
 2. Maven
-3. Browser driver [Project have a driver embedded, but may need upgrade base on the time of execution]
+3. Browser driver [Project have a chrome driver embedded, chrome version: Version 76.0.3809.100 (64-bit)]
 
 ## Tests
 

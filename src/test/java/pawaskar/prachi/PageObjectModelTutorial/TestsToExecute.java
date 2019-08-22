@@ -1,6 +1,5 @@
 package pawaskar.prachi.PageObjectModelTutorial;
 
-import com.sun.org.apache.xpath.internal.operations.Bool;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
